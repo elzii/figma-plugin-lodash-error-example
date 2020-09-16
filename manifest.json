@@ -1,0 +1,7 @@
+{
+  "name": "Lodash Example",
+  "id": "938468449509241862",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
